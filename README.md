@@ -12,11 +12,13 @@ Furthermore, I'm also giving my first steps into front-end frameworks and langua
 
 <!--START_SECTION:waka-->
 ```text
-HTML         3 hrs 36 mins   █████████████████▓░░░░░░░   71.09 % 
-Java         1 hr 10 mins    █████▓░░░░░░░░░░░░░░░░░░░   23.09 % 
-XML          12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
-Properties   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
-TypeScript   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+Week: 01 June, 2021 - 08 June, 2021
+
+HTML         3 hrs 36 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀   71.09 % 
+Java         1 hr 10 mins    ⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   23.09 % 
+XML          12 mins         ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.25 % 
+Properties   2 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.89 % 
+TypeScript   1 min           ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.38 % 
 ```
 <!--END_SECTION:waka-->
 
