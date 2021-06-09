@@ -10,8 +10,6 @@ Furthermore, I'm also giving my first steps into front-end frameworks and langua
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedropareschi&layout=compact)
 
-![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pedropareschi&v=2)
-
   
 📫 How to reach me:
 
