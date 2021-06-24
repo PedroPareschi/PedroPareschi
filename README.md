@@ -12,7 +12,7 @@ Furthermore, I'm also giving my first steps into front-end frameworks and langua
 
 <!--START_SECTION:waka-->
 ```text
-Week: 16 June, 2021 - 22 June, 2021
+Week: 17 June, 2021 - 23 June, 2021
 
 Java   9 hrs 22 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   53.15 % 
 C      5 hrs 32 mins   ⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   31.46 % 
