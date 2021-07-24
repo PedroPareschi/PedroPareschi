@@ -10,12 +10,6 @@ Furthermore, I'm also giving my first steps into front-end frameworks and langua
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedropareschi&layout=compact)
 
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
-
   
 📫 How to reach me:
 
