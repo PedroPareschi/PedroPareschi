@@ -11,6 +11,13 @@ Furthermore, I'm also giving my first steps into front-end frameworks and langua
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedropareschi&layout=compact)
 
 <!--START_SECTION:waka-->
+```text
+Week: 20 July, 2021 - 26 July, 2021
+
+Java         5 hrs 2 mins    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀   96.10 % 
+XML          6 mins          ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.07 % 
+JavaScript   5 mins          ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.83 % 
+```
 <!--END_SECTION:waka-->
 
   
