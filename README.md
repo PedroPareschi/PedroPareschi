@@ -4,7 +4,7 @@ My name is Pedro Pareschi, I'm initiating my journey towards becoming a full sta
 
 Here I'll put some of my projects, including college/course challenges and some ideas I create myself. I hope you enjoy what you see, and hopefully we can work on something together!
 
-🌱 I’m currently learning Java programming with Spring framework and related technologies such as Hibernate, JWT, S3, JDBC, JUnit, MySQL e MongoDB. 
+🌱 I’m currently learning Java programming with Spring framework and related technologies such as Hibernate, JWT, S3, JDBC, JUnit, MySQL and MongoDB. 
 
 Furthermore, I'm also giving my first steps into front-end frameworks and languages, namely JavaScript, HTML, CSS, TypeScript, JavaFX, Angular and Ionic
 
