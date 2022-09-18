@@ -1,9 +1,6 @@
 ### Hi there 👋
 
 Backend Developer with experience on Java and Python.
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedropareschi&layout=compact)
-
   
 📫 How to reach me:
 
